@@ -18,7 +18,7 @@ This is a static HTML website built to showcase my resume, skills, professional 
 ## 🌐 Live Demo
 
 Hosted via GitHub Pages:  
-[https://ritesd.github.io/ritesh-portfolio](https://ritesd.github.io/ritesh-portfolio)
+[https://ritesd.github.io/](https://ritesd.github.io/)
 
 > Replace `username` and `<repo-name>` accordingly.
 
