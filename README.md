@@ -32,7 +32,5 @@ Hosted via GitHub Pages:
 
 ## 📬 Contact
 
-- 📧 Email: [d25ritesh@gmail.com](mailto:d25ritesh@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ritesh-dubey](https://www.linkedin.com/in/ritesh-dubey)
 - 💻 GitHub: [github.com/ritesd](https://github.com/ritesd)
 
